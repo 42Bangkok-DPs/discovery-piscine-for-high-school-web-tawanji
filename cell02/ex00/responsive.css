@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: vh;
+}
+.box1 {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(166, 231, 175);
+    border: 1px solid rgb(0, 0, 0);
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    font-size: 1.5em;
+}
+.box2 {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(236, 193, 170);
+    border: 1px solid rgb(0, 0, 0);
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    font-size: 1.5em;
+}
